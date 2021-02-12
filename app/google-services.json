@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "260903968379",
+    "firebase_url": "https://notfication-demo.firebaseio.com",
+    "project_id": "notfication-demo",
+    "storage_bucket": "notfication-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260903968379:android:0c496b61805ec8ed9c4cde",
+        "android_client_info": {
+          "package_name": "com.sibi.firebaseabackgounddatamessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUzpk5dv6T2xdbx6M_nEE5WK1wNmMKZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260903968379:android:6ca7330f434fd42c9c4cde",
+        "android_client_info": {
+          "package_name": "com.sibi.notficationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUzpk5dv6T2xdbx6M_nEE5WK1wNmMKZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260903968379:android:76b3bacb68c2fe759c4cde",
+        "android_client_info": {
+          "package_name": "com.sibi.notficationpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUzpk5dv6T2xdbx6M_nEE5WK1wNmMKZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260903968379-jcqrav5c0fgs29obepqjooaeg352bdsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
